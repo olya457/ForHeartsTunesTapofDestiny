@@ -1,4 +1,4 @@
-package com.forhearts.tunes.tap.of.destiny
+package com.thelordofballs
 
 import android.app.Application
 import com.facebook.react.PackageList

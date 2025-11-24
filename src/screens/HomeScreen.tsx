@@ -60,7 +60,7 @@ const HomeScreen: React.FC<Props> = ({ navigation }) => {
 
 export default HomeScreen;
 
-const CARD_BROWN = '#4F0E00';
+const CARD_BROWN = '#0b0b0b7c';
 const CARD_BORDER = '#F6C55B';
 
 const styles = StyleSheet.create({

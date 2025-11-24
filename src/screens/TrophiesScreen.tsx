@@ -252,7 +252,7 @@ const TrophiesScreen: React.FC<Props> = ({ navigation }) => {
 
 export default TrophiesScreen;
 
-const CARD_BROWN = '#4F0E00';
+const CARD_BROWN = '#0b0b0b7c';
 const CARD_BORDER = '#F6C55B';
 
 const styles = StyleSheet.create({
@@ -347,7 +347,7 @@ const styles = StyleSheet.create({
   },
   readButton: {
     flexShrink: 0,
-    backgroundColor: '#6C1A00',
+    backgroundColor: '#0b0b0b7c',
     borderRadius: 14,
     borderWidth: 2,
     borderColor: CARD_BORDER,

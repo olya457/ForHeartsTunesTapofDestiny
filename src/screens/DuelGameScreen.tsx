@@ -350,7 +350,7 @@ const styles = StyleSheet.create({
     width: 64,
     height: 64,
     borderRadius: 32,
-    backgroundColor: '#4F0E00',
+    backgroundColor: '#0b0b0b7c',
     borderWidth: 3,
     borderColor: '#F6C55B',
     alignItems: 'center',

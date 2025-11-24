@@ -113,7 +113,7 @@ const AboutScreen: React.FC<Props> = ({ navigation }) => {
 
 export default AboutScreen;
 
-const CARD_BROWN = '#4F0E00';
+const CARD_BROWN = '#0b0b0b7c';
 const CARD_BORDER = '#F6C55B';
 
 const styles = StyleSheet.create({
@@ -179,7 +179,7 @@ const styles = StyleSheet.create({
     width: 60,
     height: 60,
     borderRadius: 30,
-    backgroundColor: '#4F0E00',
+    backgroundColor: '#0b0b0b7c',
     borderWidth: 3,
     borderColor: CARD_BORDER,
     alignItems: 'center',

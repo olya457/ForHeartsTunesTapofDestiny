@@ -278,7 +278,7 @@ const StartDuelScreen: React.FC<Props> = ({ navigation }) => {
 
 export default StartDuelScreen;
 
-const CARD_BROWN = '#4F0E00';
+const CARD_BROWN = '#0b0b0b7c';
 const CARD_BORDER = '#F6C55B';
 const GREEN_GLOW = '#00FF6A';
 
