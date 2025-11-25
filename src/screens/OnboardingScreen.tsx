@@ -43,7 +43,7 @@ const pages: OnboardingPage[] = [
     image: require('../assets/onb_trophies.png'),
     title: 'HEARTBEAT',
     description:
-      'Tap when the heart glows your color –\nblue or fire. Each touch adds energy\nto your side and brings you closer\nto triumph.',
+      'Tap when the heart glows your color –\yellow or blue. Each touch adds energy\nto your side and brings you closer\nto triumph.',
     buttonLabel: 'START',
   },
 ];
