@@ -1,4 +1,4 @@
-package com.thelordofballs
+package com.plinkballsglory
 
 import android.app.Application
 import com.facebook.react.PackageList
