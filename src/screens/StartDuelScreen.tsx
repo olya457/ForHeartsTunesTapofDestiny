@@ -102,9 +102,9 @@ const StartDuelScreen: React.FC<Props> = ({ navigation }) => {
       <View style={styles.card}>
         <Text style={styles.cardTitle}>GAME RULES</Text>
         <Text style={styles.cardText}>
-          In the game “For Hearts Tunes: Tap of Destiny”, each player has their own heart and a
+          In the game “Plink Balls Glory”, each player has their own heart and a
           progress bar. The heart constantly changes color – your task is to tap only when it shines
-          in your color: for an Angel – blue, for a Demon – red. Each accurate touch adds points to
+          in your color: for an Angel – yellow, for a Demon – blue. Each accurate touch adds points to
           the progress bar, and a mistake subtracts one. Before the game, you choose how many points
           you need to score. Whoever fills their bar first gains the power of the Heart of Destiny.
         </Text>
