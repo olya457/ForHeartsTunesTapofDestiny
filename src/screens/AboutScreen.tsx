@@ -76,12 +76,12 @@ const AboutScreen: React.FC<Props> = ({ navigation }) => {
 
         <View style={styles.card}>
           <Text style={styles.cardText}>
-            For Hearts Tunes: Tap of Destiny is an offline reaction game for two.
+            The Lord Of Balls is an offline reaction game for two.
             Choose a side — the Angel of Light or the Demon of Flame — and tap
             only when your heart shines in your color. Every accurate touch adds
             energy, and a mistake takes it away. Before the game, you can set
             the number of points for victory, change the interface background to
-            blue or red, and compete to see whose heart will be stronger. For
+            purple or green, and compete to see whose heart will be stronger. For
             skill, open trophies and collect your collection of the power of the
             Heart of Destiny.
           </Text>
